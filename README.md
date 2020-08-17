@@ -12,7 +12,7 @@ The existing systems does not give the developers much control over their produc
 
 ## Sequence Diagram 
 This is an high architectural diagram for the process involved in the system
-![Seqeunce Diagram](/Seqeunce_Diagram.jpg)
+![Seqeunce Diagram](/Sequence_Diagram.jpg)
 
 ## Benefits
  -- Customers earn reward points each time when they buy a product.
