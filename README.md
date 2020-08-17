@@ -10,9 +10,9 @@ This is my capstone project called IndyDevs ,  a blockchain based decentralized 
 ## Existing competitors problem
 The existing systems does not give the developers much control over their product pricing and transaction control within their community marketplace.
 
-# Sequence Diagram 
+## Sequence Diagram 
 This is an high architectural diagram for the process involved in the system
-
+![Seqeunce Diagram](/Seqeunce_Diagram.jpg)
 
 ## Benefits
  -- Customers earn reward points each time when they buy a product.
